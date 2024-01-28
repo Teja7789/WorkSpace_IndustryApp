@@ -1,3 +1,8 @@
+### Step-2
+Step by step to deploy app in git -https://blog.logrocket.com/deploying-react-apps-github-pages/
+
+### Step-1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
